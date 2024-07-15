@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="bg-LigthGrayishBlue flex items-center justify-center h-svh p-5">
       <div className="flex flex-col lg:flex-row shadow-xl lg:w-2/5 relative">
-        <div className="lg:w-1/3 rounded-t-xl lg:rounded-t-none lg:rounded-l-xl bg-drawers bg-center bg-cover h-60 lg:h-auto"></div>
+        <div className="lg:w-1/3 rounded-t-xl lg:rounded-tr-none lg:rounded-l-xl bg-drawers bg-center bg-cover h-60 lg:h-auto"></div>
         <div className="lg:w-2/3 bg-white rounded-b-xl lg:rounded-r-xl p-10 gap-5 flex flex-col">
           <h1 className="text-VeryDarkGrayishBlue font-bold text-xl gap-5">Shift the overall look and feel by adding these wonderful touches to furniture in your home</h1>
           <p className="text-GrayishBlue text-13px font-medium">Ever been in a room felt like something was missing? Perhaps ir felt slightly bare and univiting. I've got some simple tips to help you make any room feel complete.</p>
