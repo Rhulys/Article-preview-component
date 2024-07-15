@@ -16,7 +16,7 @@ export default {
         "13px" : "13px"
       },
       backgroundImage: {
-        "drawers" : "url(./drawers.jpg)"
+        "drawers" : "url(/drawers.jpg)"
       }
     },
   },
