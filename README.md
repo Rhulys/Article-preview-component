@@ -1,4 +1,4 @@
-# Frontend Mentor - Solução do Componente de introdução com formulário de inscrição
+# Frontend Mentor - Solução do Componente de pré-visualização do artigo
 
 Esta é uma solução para o [desafio do Componente de pré-visualização do artigo no Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
